@@ -7,4 +7,6 @@ def display_board:
   puts "   |   |   "
 end
 
-display_board
+def display_board:
+  puts "A tic Tac Toe board"
+end
